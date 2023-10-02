@@ -33,7 +33,7 @@ using std::runtime_error;
 #include <iostream>
 using std::cin; using std::cout; using std::endl;
 
-#include "Sales_item.h"
+#include "../1/Sales_item.h"
 
 int main() 
 {
